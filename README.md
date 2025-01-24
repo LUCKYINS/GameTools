@@ -1,2 +1,2 @@
-# GameTools
+# GameTools (In Progress)
  A regrouop of the classes that allow easy game creation with SDL, Allegro, etc...
